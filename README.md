@@ -1,5 +1,4 @@
-
-<script src="https://tryhackme.com/badge/642156"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/shaheer.ez.png" alt="TryHackMe">
 
 <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgN8Iaopmsv_1tQrR0RNOAqSKx1mn261PQPQZ2mYo8pzZ3AkqvsXW3SKZF&s=10">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgN8Iaopmsv_1tQrR0RNOAqSKx1mn261PQPQZ2mYo8pzZ3AkqvsXW3SKZF&s=10">
