@@ -51,5 +51,5 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mshaheerz" alt="mshaheerz" /></a> </p>
 <br>
 <h3 align="left"><img title="creator" src="https://img.shields.io/static/v1?label=&message=SUPPORT&color=lightgrey"></h3>
-<p align="center"><a href="https://www.buymeacoffee.com/shrzz"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shrzz" /></a></p><br><br>
+
 
