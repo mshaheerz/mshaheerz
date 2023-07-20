@@ -1,8 +1,8 @@
 <h1 align="center">
       
 
-<img title="IAM" src="https://img.shields.io/static/v1?label=HI IAM&message=SHAHEER&color=black">
-<img title="creator" src="https://img.shields.io/static/v1?label=FROM&message=INDIA&color=black">
+<img title="IAM" src="https://img.shields.io/static/v1?label=HI IAM&message=Mohammed&color=black">
+<img title="creator" src="https://img.shields.io/static/v1?label=shaheer&message=kp&color=black">
 <br>
 
 <h3 align="center"><img title="creator" src="https://img.shields.io/static/v1?label=A passionate back-end&message=developer from india&color=black"></h3>
