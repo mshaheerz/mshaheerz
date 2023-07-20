@@ -5,7 +5,7 @@
 <img title="creator" src="https://img.shields.io/static/v1?label=shaheer&message=kp&color=black">
 <br>
 
-<h3 align="center"><img title="creator" src="https://img.shields.io/static/v1?label=A passionate back-end&message=developer from india&color=black"></h3>
+<h3 align="center"><img title="creator" src="https://img.shields.io/static/v1?label=A passionate Full stack&message=developer from india&color=black"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mshaheerz&label=Profile%20views&color=000f00&style=plastic" alt="mshaheerz" /> </p>
 
