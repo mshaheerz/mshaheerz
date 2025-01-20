@@ -19,13 +19,7 @@
 <br>
 <hr>
 
-`- 🔭 I’m currently working on [expo21](https://github.com/mshaheerz/21expo)`
 
-`- 🌱 I’m currently learning `**javascript , nodejs, nextjs**
-
-`- 👯 I’m looking to collaborate on [web-terminal(js)](https://github.com/mshaheerz/ledxlight.github.io)`
-
-`- 🤝 I’m looking for help with [web-terminal](https://github.com/mshaheerz/ledxlight.github.io)`
 
 `- 👨‍💻 All of my projects are available at [http://github.com/mshaheerz](http://github.com/mshaheerz)`
 
