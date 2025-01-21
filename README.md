@@ -9,8 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mshaheerz&label=Profile%20views&color=000f00&style=plastic" alt="mshaheerz" /> </p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mshaheerz&show_icons=true&theme=dark&locale=en" alt="mshaheerz" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mshaheerz&theme=dark" alt="mshaheerz" /></p>
-
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mshaheerz&show_icons=true&theme=onedark&locale=en&layout=compact" alt="mshaheerz" /></p>
 <br>
 <br>
 
