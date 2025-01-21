@@ -13,11 +13,7 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mshaheerz&show_icons=true&theme=onedark&locale=en&layout=compact" alt="mshaheerz" /></p>
 <br>
 <br>
-<hr>
 
-
-
-`- 👨‍💻 All of my projects are available at [http://github.com/mshaheerz](http://github.com/mshaheerz)`
 
 
 
